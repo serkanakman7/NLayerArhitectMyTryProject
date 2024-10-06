@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4Hxh+dP5P8n2MumEU8Tm1+5LvCr9PssJE8il2QnPWjM=",
+  "Source": "TryJobProject.WebAPI",
+  "BasePath": "_content/TryJobProject.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TryJobProject.WebAPI\\wwwroot",
+      "Source": "TryJobProject.WebAPI",
+      "ContentRoot": "C:\\Users\\serka\\source\\repos\\TryJobProject\\TryJobProject.WebAPI\\wwwroot\\",
+      "BasePath": "_content/TryJobProject.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\serka\\source\\repos\\TryJobProject\\TryJobProject.WebAPI\\wwwroot\\files\\ef2e595-f0.xlsx",
+      "SourceId": "TryJobProject.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serka\\source\\repos\\TryJobProject\\TryJobProject.WebAPI\\wwwroot\\",
+      "BasePath": "_content/TryJobProject.WebAPI",
+      "RelativePath": "files/ef2e595-f0.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\ef2e595-f0.xlsx"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\bin\Debug\net6.0\TryJobProject.Entities.deps.json
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\bin\Debug\net6.0\TryJobProject.Entities.dll
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\bin\Debug\net6.0\TryJobProject.Entities.pdb
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\bin\Debug\net6.0\Core.dll
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.AssemblyInfo.cs
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.csproj.CopyComplete
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.dll
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\refint\TryJobProject.Entities.dll
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\TryJobProject.Entities.pdb
+C:\Users\serka\source\repos\TryJobProject\DemoProject\TryJobProject.Entities\obj\Debug\net6.0\ref\TryJobProject.Entities.dll
